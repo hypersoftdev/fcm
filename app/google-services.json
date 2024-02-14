@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863600722034",
+    "project_id": "sonicfcm-ed9bc",
+    "storage_bucket": "sonicfcm-ed9bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863600722034:android:4cf4497e077a49dabb82eb",
+        "android_client_info": {
+          "package_name": "com.hypersoft.fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcOUEi2Fen5tb97jqohYETjncVfsAf-a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
