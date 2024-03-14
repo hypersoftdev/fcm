@@ -5,6 +5,13 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
 
+/**
+ * @Author: Muhammad Yaqoob
+ * @Date: 13,Feb,2024.
+ * @Accounts
+ *      -> https://github.com/orbitalsonic
+ *      -> https://www.linkedin.com/in/myaqoob7
+ */
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
