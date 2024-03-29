@@ -44,7 +44,7 @@ Add maven repository in project level build.gradle or in latest project setting.
 Add FCM dependencies in App level build.gradle.
 ```
     dependencies {
-             implementation 'com.github.hypersoftdev:fcm:1.0.3'
+             implementation 'com.github.hypersoftdev:fcm:1.0.4'
     }
 ```  
 
